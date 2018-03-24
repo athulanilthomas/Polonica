@@ -12,14 +12,14 @@
                             <!-- Menu Area -->
                             <div class="collapse navbar-collapse" id="ca-navbar">
                                 <ul class="navbar-nav ml-auto" id="nav">
-                                    <li class="nav-item active"><a class="nav-link" href="index.php/#home">Home</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="index.php/#about">About</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="index.php/#features">Features</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="index.php/#screenshot">Gallery</a></li>
+                                    <li class="nav-item active"><a class="nav-link" href="index.php#home">Home</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="index.php#about">About</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="index.php#features">Features</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="index.php#screenshot">Gallery</a></li>
                                     <li class="nav-item"><a class="nav-link" href="index.php?page=location">Locations</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="index.php/#testimonials">Testimonials</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="index.php/#team">Team</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="index.php/#contact">Contact</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="index.php#testimonials">Testimonials</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="index.php#team">Team</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="index.php#contact">Contact</a></li>
                                 </ul>
                             </div>
                         </nav>
